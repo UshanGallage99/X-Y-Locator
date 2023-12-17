@@ -1,0 +1,20 @@
+﻿Data types
+----------
+Value data type
+---------------
+	*predefine - null,boolean,integer,float,decimal
+	*user define
+
+Pointer datatype
+----------------
+	use to store the address of another pointer
+
+Reference datatype
+-----------------
+	store reference value to that perticular variable
+
+		*Object type
+		*Dynamic type
+		*String type
+
+		  
